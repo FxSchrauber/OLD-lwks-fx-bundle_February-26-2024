@@ -1,5 +1,11 @@
-# Lightworks user Fx library, February 26, 2024.
+# This is an OLD repository that is no longer maintained!   
+# The current Lightworks user Fx library can now be found there: https://github.com/LWKS-Software/lwks-fx-bundle  
+___  
+___
+#### The original text follows for archiving purposes only:  
 
+  
+### Lightworks user Fx library, February 26, 2024.
 The effects in this ZIP file were created by Lightworks users - thank you to all who have contributed, especially khaver, who started things off.  They will run on versions of Lightworks from 2023.1 upwards.  In the versions that support it you can directly browse and load these effects from within the Lightworks effects engine.
 
 You may notice that there have been several effects and even whole categories removed from this library.  This has in part been because with the addition of LW masking several user effects that added a mask to an existing effect are no longer necessary.  There is no checking in this library for effects with duplicate functionality, although with the reduction of the number of effects that should not be an issue.  It's up to you to check that any given effect does what you want, and does it better/faster/simpler than any alternative.
