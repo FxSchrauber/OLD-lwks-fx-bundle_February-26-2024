@@ -1,4 +1,4 @@
-# This is an OLD repository that is no longer maintained!   
+# This is an OLD fork of a repository that is no longer maintained!   
 # The current Lightworks user Fx library can now be found there: https://github.com/LWKS-Software/lwks-fx-bundle  
 ___  
 ___
